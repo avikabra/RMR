@@ -1,0 +1,8 @@
+Valorant,6612,w:{, , , , , },l:{, , , , , }
+Valorant,9009,w:{jason, eshaan, , , , },l:{cat, , , , , }
+Valorant,9327,w:{avi, eshaan, , , , },l:{cat, jason, , , , }
+Valorant,9487,w:{avi, , , , , },l:{, , , , , }
+Valorant,6805,w:{cat, eshaan, , , , },l:{jason , ms. khan, , , , }
+Valorant,8828,w:{ms. khan, , , , , },l:{, , , , , }
+Valorant,4557,w:{ms. khan, , , , , },l:{, , , , , }
+Valorant,814,w:{, , , , , },l:{, , , , , }
